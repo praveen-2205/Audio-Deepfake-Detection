@@ -80,4 +80,4 @@ print(result)
 ## 💎 Contact
 👨‍💻 **Praveen Kumar S**  
 📧 Email: [spraveenkumar2205@gmail.com]  
-📛 LinkedIn: [your-profile](www.linkedin.com/in/spraveenkumar2205)
+📛 LinkedIn: [LinkedIn](https://www.linkedin.com/in/spraveenkumar2205)
